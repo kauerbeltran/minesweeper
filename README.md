@@ -1,5 +1,5 @@
-# 💣 Minesweeper — estilo Atari
-Campo minado clássico com visual de terminal retrô, rodando como **executável standalone do Windows** — sem Python, sem dependências, sem instalação. Basta dar dois cliques.
+# 💣 Minesweeper
+Campo minado clássico com visual de terminal retrô, rodando como **executável standalone do Windows**, sem Python, sem dependências, sem instalação. Basta dar dois cliques.
 ```
 M I N E S W E E P E R  [Beginner]
 Mines: 10   Flags: 0   Time: 00:07   Best: --:--   Sound: on
